@@ -1,0 +1,36 @@
+{
+  "name": "hexo-env",
+  "version": "0.0.1",
+  "main": "index",
+  "dependencies": {},
+  "description": "This is the plugin for Hexo that tell development or production.",
+  "devDependencies": {},
+  "directories": {},
+  "author": {
+    "email": "tea3gtinfo@gmail.com",
+    "name": "tea3",
+    "url": "https://tea3.github.io/"
+  },
+  "bugs": {
+    "url": "https://github.com/tea3/hexo-env/issues"
+  },
+  "keywords": [
+    "hexo",
+    "mode",
+    "state",
+    "production",
+    "development",
+    "environment"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "tea3gt",
+      "email": "tea3gtinfo@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tea3/hexo-env.git"
+  }
+}
